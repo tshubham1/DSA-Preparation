@@ -1,4 +1,5 @@
 # Binary Search Algorithm using recursion
+# Time complexity : O(log n)
 # Method implementation
 def binarySearch(arr, x, left, right):
     

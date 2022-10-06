@@ -1,4 +1,5 @@
 # Binary Search Algorithm with iterative approach
+# Time complexity : O(log n)
 # Function definition
 
 def binarySearch(arr, x, left, right):
