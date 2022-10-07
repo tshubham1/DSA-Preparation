@@ -3,7 +3,7 @@
 # Method implementation
 def binarySearch(arr, x, left, right):
     
-
+    
     while left <= right:
 
     # lower bound while division
